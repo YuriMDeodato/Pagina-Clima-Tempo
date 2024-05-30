@@ -1,3 +1,5 @@
+Uma página simples, utilizando html, css e JavaScript, para mostrar o clima e o tempo do dia atual em destaque e os dias do restante da semana, da localização (cidade, estado ou bairro), pesquisados no campo de pesquisa fornecido pela página. Utilizando API e Key do site openweathermap.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
